@@ -22,5 +22,8 @@ This project analyzes student marks and provides useful insights such as:
 ## Output
 The program calculates statistics and displays a bar chart showing student marks.
 
+## Output Visualization
+
+![Student Marks Chart](Figure_1.png)
 ## Author
 Vaibhavi Shinde
